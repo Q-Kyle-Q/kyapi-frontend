@@ -1,3 +1,3 @@
 # kyapi-frontend
 
-kyapi开放平台前端项目
+kyapi开放平台前端
