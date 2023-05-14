@@ -2,4 +2,4 @@
 
 kyapi开放平台前端
 
-npm instal dev启动
+npm install dev启动
